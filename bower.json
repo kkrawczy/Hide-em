@@ -1,0 +1,15 @@
+{
+  "name": "Hide'em",
+  "version": "0.0.1",
+  "authors": [
+    "karol <kkrawczyk.pl@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
