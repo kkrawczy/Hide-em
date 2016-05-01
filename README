@@ -1,3 +1,8 @@
 A chrome extension that is suppose to improve the review process in bitbucket.
 This extension adds additional button to the file difference section, that can hide and show the differences.
 
+Guide:
+1. bower init - to install 
+2. Open chrome and go to: chrome://extensions/
+3. Enable "Developer mode"
+4. Load the folder with the extension.
